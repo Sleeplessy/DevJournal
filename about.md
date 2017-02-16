@@ -11,8 +11,8 @@ permalink: /about/
 
 
 <p>Hi there,I'm <strong>Tsao Shisong(曹石松)</strong>，you can call me <strong>Sleeplessy</strong>.Yet I'm a senior college student studying in <a href="http://english.ysu.edu.cn/">Yanshan University</a>,majored in Geotechnical and Underground Engineering.
-<p>As all you can see,I'm not a CS student,but I've finished the CS's undergraduate course.Books I('ve finished) reading is listed in <a href="#books">BOOK LIST</a>.
-<p>Moreover, I'm also an extracurricular translator.And have translated some <a href="https://en.wikipedia.org/wiki/Otaku">OTAKU</a> works totaly by myself.Works translated by me is listed in <a href="#trans_works">TRANSLATED WORKS</a>.
+<p>As all you can see,I'm not a CS student,but I've finished the CS's undergraduate course.Books I('ve finished) reading are listed in <a href="#books">BOOK LIST</a>.
+<p>Moreover, I'm also an extracurricular translator.And have translated some <a href="https://en.wikipedia.org/wiki/Otaku">OTAKU</a> works totaly by myself.Works translated by me are listed in <a href="#trans_works">TRANSLATED WORKS</a>.
 <div class="manual-content">BOOK LIST</div>
 <div class="highlight" id="books">
 + Data Structure(C Language Version).Yan Weimin.[FINISHED]
