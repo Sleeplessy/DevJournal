@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
  <blockquote><p>Right now fighting for my life. <br>
-  Right now struggle with my dream.</p></blockquote>
+  Right now struggle for my dream.</p></blockquote>
 
 
 <p>Hi there,I'm <strong>Tsao Shisong(曹石松)</strong>，you can call me <strong>Sleeplessy</strong>.Yet I'm a senior college student studying in <a href="http://english.ysu.edu.cn/">Yanshan University</a>,majored in Geotechnical and Underground Engineering.
