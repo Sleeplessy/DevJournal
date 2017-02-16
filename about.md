@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AboutMe
+title: About
 permalink: /about/
 ---
 <div class="main-title">
