@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div class="main-title">
-  UP AND RUNNING WITH Sleeplessy
-</div>
  <blockquote><p>Right now fighting for my life. <br>
   Right now struggle with my dream.</p></blockquote>
 
