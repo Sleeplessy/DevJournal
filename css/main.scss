@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 .navbar-default{
-  background: #093750 !important;
+  background: #607D8B !important;
   border: none !important;
 
 }
@@ -13,11 +13,11 @@
     color:#abc0ca !important;
 }
 .navbar-default .navbar-nav > li > a:hover{
-    color:#03a4fb !important;
+    color:#CFD8DC !important;
 
 }
 .navbar-default .navbar-nav > li > a:focus{
-    color:#03a4fb !important;
+    color:#CFD8DC !important;
 }
 .navbar-default .navbar-brand{
   color:#abc0ca !important;
@@ -27,13 +27,13 @@
   padding: 0.5em;
 }
 body{
-  background-color: #022335 !important;
+  background-color: #37474F !important;
   font-family: "Fira Mono" !important;
   color: #abc0ca !important;
 }
 .page-stuff{
   a {
-    color: #03a4fb !important;
+    color: #CFD8DC !important;
     text-decoration: none;
       &:hover{
         color:#03a4fb !important;
@@ -52,10 +52,10 @@ body{
   padding-bottom: 5em;
 }
 .jumbotron {
-  background: #093750 !important;
+  background: #455A64 !important;
 }
 a {
-    color: #03a4fb;
+    color: #CFD8DC;
     text-decoration: none;
 }
 a:hover{
@@ -95,7 +95,7 @@ padding-bottom: 0.3em;
   padding-bottom: 5em;
 }
 pre{
-background-color: black !important;
+background-color: #212121 !important;
 border:none !important;
 border-radius: 0px !important;
 font-size: 20px !important;
@@ -107,7 +107,7 @@ color:white !important;
 }
 
 code{
-  background-color: black !important;
+  background-color: #212121 !important;
   color: white !important;
   border: none !important;
   border-radius: 0px !important;
@@ -160,7 +160,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #424242;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
