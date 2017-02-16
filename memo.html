@@ -15,7 +15,8 @@ layout: default
 <section id="page-content">
   <div class="container">
     <div class="post-list">
-  {%  for post in site.categories.memo %}
+  {% for post in site.categorie.memo %}
+    <li>{{ post.title }}</li>
   <div class="post-box">
     <div class="post-title">
     <a class="post-title" href="{{post.url | prepend:site.baseurl }}" > {{ post.title }}</a>
