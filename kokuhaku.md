@@ -4,7 +4,6 @@ title: 告白
 menu: Love
 permalink: /Kokuhaku/
 ---
-<div class="highlight" id="loveletter">
 ## 亲爱的
 
 __任涵__
@@ -15,5 +14,3 @@ __任涵__
 跟我
 
 结婚
-
-</div>
