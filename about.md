@@ -1,87 +1,37 @@
 ---
 layout: page
-title: About
+title: AboutMe
 permalink: /about/
 ---
-<div class="man-title">
-  UP AND RUNNING WITH DevJournal
+<div class="main-title">
+  UP AND RUNNING WITH Sleeplessy
 </div>
-<div class="manual manual-title">
-  Posting
-  </div>
-<p>  <div class="manual-content">
-
-      - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br />
-      - Name the file according to the format YY-MM-DD-[short name for your post].<br />
-      &nbsp;&nbsp;&nbsp;<code>2016-03-30-i-love-design.markdown</code><br />
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br><br>
-      <div class="example">
-
-        <div class="highlight">
-        <pre>
-          ---
-          layout: post | default | page
-          title:  String<span class="hint"> Post Title</span>
-          date:   Time Stamp
-          categories: String | Array of Strings<span class="hint"> Category / Categories </span>
-          ---
-        </pre>
-        </div>
-
-      </div>
-      <div class="example">
-        <div class="highlight">
-        <pre>
-        ---
-        layout: post
-        title:  "The One with the Blackout"
-        date:   2016-03-30 19:45:31 +0530
-        categories: ["life", "friends"]
-        ---
-      </pre>
-    </div>
-      </div>
+ <blockquote><p>Right now fighting for my life. <br>
+  Right now struggle with my dream.</p></blockquote>
 
 
-
-</p>
+<p>Hi there,I'm <strong>Tsao Shisong(曹石松)</strong>，you can call me <strong>Sleeplessy</strong>.Yet I'm a senior college student studying in <a href="http://english.ysu.edu.cn/">Yanshan University</a>,majored in Geotechnical and Underground Engineering.
+<p>As all you can see,I'm not a CS student,but I've finished the CS's undergraduate course.Books I('ve finished) reading is listed in <a href="#books">BOOK LIST</a>.
+<p>Moreover, I'm also an extracurricular translator.And have translated some <a href="https://en.wikipedia.org/wiki/Otaku">OTAKU</a> works totaly by myself.Works translated by me is listed in <a href="#trans_works">TRANSLATED WORKS</a>.
+<div class="manual-content">BOOK LIST</div>
+<div class="highlight" id="books">
++ Data Structure(C Language Version).Yan Weimin.[FINISHED]
+<br />
++ Opreating System(Third Edition). Tang Xiaodan.[FINISHED]
+<br />
++ The Art of UNIX Programming. Eric S. Raymond.[FINISHED]
+<br />
++ C++ Primer Plus(Fifth Edition). Stanley B.Lippman,Josée Lajoie Barbara E. Moo [READING,UP TO CHAPTER 12]
+<br />
++ Algorithms(Fourth Edition). Robert Sedgewick,Kevin Wayne.[READING]
+<br />
++ Compilers:Principles,Techniques,and Tools. Alfred V.Aho,Ravi Sethi,Jeffrey D. Ullman.[READING]
 </div>
-<p><br /></p>
-
-  <div class="manual manual-title">
-  Create Pages
-  </div>
-<p>  <div class="manual-content">
-
-      - Create a .md file in the root directory.<br />
-      - Name the file with the desired page link name.<br />
-        &nbsp;&nbsp;&nbsp;<code>about.md</code><br />
-          &nbsp;&nbsp;&nbsp;<code>design.md</code><br />
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br><br>
-      <div class="highlight">
-
-
-        <pre>
-          ---
-          layout: page
-          title: String <span class="hint">Title of the webpage</span>
-          permalink: / String / <span class="hint">Permalink for the webpage</span>
-          tagline: String <span class="hint">Optional DevJournal Feature : Tagline for the page</span>
-          ---
-      </pre><br />
-    </div><br>
-      <div class="highlight">
-
-        <pre>
-        ---
-        layout: page
-        title:  "Science"
-        permalink:   /science/
-        tagline : "Humanity is overrated."
-        ---
-      </pre>
-      </div>
-
-
-  </div>
-</p>
+<div class="manual-content">TRANSLATED WORKS</div>
+<div  class="highlight" id="trans_works">
++ <a href="http://www.bilibili.com/video/av3381413/">BATTLE SPRIPTS 龍虎の拳(Art of Fighting)</a>.1993's OVA[Anime]
+<br />
++ <a href="http://www.acfun.cn/v/ac2525693">明日のジョー(Ashita no Joe)</a>.1970's TV Animation[Anime]
+<br />
++<a href="https://e-hentai.org/g/961629/dd716e7969/"> オリジナルJK催眠エロ漫画(Original JK Saimin Ero Manga)</a>.Izumo Ryo[Manga] //NOTICE:NAKED!
+</div>
