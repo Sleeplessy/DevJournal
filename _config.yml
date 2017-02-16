@@ -15,9 +15,9 @@ description: "<h3>Life for CODE.Life for OTAKU.</h3><h1>Sleeplessy | Tsao Shison
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hemangsk.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://sleeplessy.github.io" # the base hostname & protocol for your site
+twitter_username: Sleeplessy_C
+github_username:  Sleeplessy
 
 # Build settings
 markdown: kramdown
