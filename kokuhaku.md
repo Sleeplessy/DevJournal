@@ -2,7 +2,7 @@
 layout: page
 title: 告白
 menu: Love
-permalink: /kokuhaku/
+permalink: /Kokuhaku/
 ---
 <div class="highlight" id="loveletter">
 ## 亲爱的
