@@ -23,6 +23,8 @@ permalink: /about/
 <br />
 + C++ Primer Plus(Fifth Edition). Stanley B.Lippman,Josée Lajoie Barbara E. Moo [READING,UP TO CHAPTER 12]
 <br />
++ Compute Graphics(Second Edition). Donald Hearn,M. Pauline Baker.[READING]
+<br />
 + Algorithms(Fourth Edition). Robert Sedgewick,Kevin Wayne.[READING]
 <br />
 + Compilers:Principles,Techniques,and Tools. Alfred V.Aho,Ravi Sethi,Jeffrey D. Ullman.[READING]
