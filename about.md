@@ -34,5 +34,5 @@ permalink: /about/
 <br />
 + <a href="http://www.acfun.cn/v/ac2525693">明日のジョー(Ashita no Joe)</a>.1970's TV Animation[Anime]
 <br />
-+<a href="https://e-hentai.org/g/961629/dd716e7969/"> オリジナルJK催眠エロ漫画(Original JK Saimin Ero Manga)</a>.Izumo Ryo[Manga] //NOTICE:NAKED!
++<a href="https://e-hentai.org/g/961629/dd716e7969/"> オリジナルJK催眠エロ漫画(Original JK Saimin Ero Manga)</a>.Izumo Ryo[Manga] //:underage: NOTICE:NAKED!
 </div>
