@@ -21,3 +21,7 @@ github_username:  Sleeplessy
 
 # Build settings
 markdown: kramdown
+
+# Plugins settings:
+gems:
+  - jemoji
