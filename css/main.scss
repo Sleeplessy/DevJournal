@@ -74,7 +74,10 @@ a:hover{
 .post-box{
   padding-top: 2em;
   padding-bottom: 2em;
-  border-bottom: 0.3px dotted #03a4fb;
+  
+}
+.post-box:hover{
+  border-bottom: 0.3px dotted #CFD8DC;
 }
 
 .post-title{
