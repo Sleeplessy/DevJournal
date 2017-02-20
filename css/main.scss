@@ -53,7 +53,6 @@ body{
 }
 .jumbotron {
   background: #455A64 !important;
-  font-family: 'Gloria Hallelujah', cursive;
 }
 a {
     color: #CFD8DC;
@@ -153,7 +152,13 @@ text-align: center;
 
 .jumbotron{
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.15);
-  font-family: 'Gloria Hallelujah', cursive;
+  
+}
+body > section:nth-child(2) > section:nth-child(1) > div > div > h3{
+font-family: 'Gloria Hallelujah', cursive;
+}
+body > section:nth-child(2) > section:nth-child(1) > div > div > h1{
+  font-family: 'Tangerine', cursive;
 }
 .navbar{
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.15);
